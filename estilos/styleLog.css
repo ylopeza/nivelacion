@@ -1,0 +1,21 @@
+body{
+text-align: center;
+
+}
+#login2{
+   background-color: rgb(108, 197, 153);
+   display: inline-block;
+   padding: 15px 20px;
+   margin: 9.5% 31%;
+   height: 315px;
+   width: 270px;
+}
+
+#form-login{
+   padding-top: 25px;
+   font-size: 1.5rem;
+}
+
+#btn{
+   font-size: 1.5rem;
+}
